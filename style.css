@@ -1,5 +1,5 @@
 body {
-    color: #222222;
+    color: #483D8B;
     font-size: 1em;
     font-family: "Open Sans", "Helvetica Neue", sans-serif;
 }
@@ -20,7 +20,7 @@ body {
 .masthead-intro {
     margin-bottom: 0.1em;
     font-size: 2em;
-    color: #ffffff;
+    color: #7B68EE;
 }
 
 .masthead-heading {
@@ -29,7 +29,7 @@ body {
     font-size: 6em;
     letter-spacing: -0.02em;
     text-transform: uppercase;
-    color: #ffffff;
+    color: #7B68EE;
 }
 
 .details {
