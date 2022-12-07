@@ -1,2 +1,2 @@
-# About Me 
-This website is a static HTML website using semantic tags and minimal CSS 
+# Jakieś info o mnie 
+Strone se pisałem w css'ie i htmlu 
